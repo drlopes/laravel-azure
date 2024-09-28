@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace DRLopes\LaravelAzure\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelAzureCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-azure';
 
     public $description = 'My command';
 
