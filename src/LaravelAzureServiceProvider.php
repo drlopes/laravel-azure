@@ -2,9 +2,9 @@
 
 namespace DRLopes\LaravelAzure;
 
+use DRLopes\LaravelAzure\Commands\LaravelAzureCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use DRLopes\LaravelAzure\Commands\LaravelAzureCommand;
 
 class LaravelAzureServiceProvider extends PackageServiceProvider
 {

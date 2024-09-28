@@ -2,9 +2,9 @@
 
 namespace DRLopes\LaravelAzure\Tests;
 
+use DRLopes\LaravelAzure\LaravelAzureServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use DRLopes\LaravelAzure\LaravelAzureServiceProvider;
 
 class TestCase extends Orchestra
 {
