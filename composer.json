@@ -1,6 +1,6 @@
 {
     "name": "drlopes/laravel-azure",
-    "description": "A wrapper around python's packages for interacting with Azure services for Laravel",
+    "description": "A wrapper around python's packages for interacting with Azure services within Laravel",
     "keywords": [
         "Daniel Lopes",
         "laravel",
